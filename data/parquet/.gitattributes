@@ -1,2 +1,0 @@
-cellxgene_obs_layer.parquet filter=lfs diff=lfs merge=lfs -text
-flights-10m.parquet filter=lfs diff=lfs merge=lfs -text
